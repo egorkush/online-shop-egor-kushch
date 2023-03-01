@@ -1,1 +1,1 @@
-# onlineShop-egor-kushch
+# online-shop-egor-kushch
